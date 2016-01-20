@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\pre-dexed\debug\classes-ef84a3ee3e6094e6dc5067fe673aa47e87dbce32.jar" />
+    </item>
+    <item
+        jar="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-2d05a9c8ecb8ef75db528b87a205cb556a4b8a94.jar" />
+    </item>
+    <item
+        jar="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\pre-dexed\debug\classes-19c77cdfd92e46d61dba9982fb10f1e74d46d206.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tien\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\GMO_Project\Chapter09_RadioGroupDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-fc4a6a3b2637c91f3933f59d9fbc9b5f9002f623.jar" />
+    </item>
+
+</items>
